@@ -1,2 +1,2 @@
 # portalator
-Portalator is a version of the RON calculator project but written in Node.js and portable, hence the name "portalator".
+Portalator is a portable version of the RON calculator project but written in Python, hence the name "portalator".
