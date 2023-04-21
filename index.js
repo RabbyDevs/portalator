@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 const resourceTable = {
 	'Aluminum': 0,
 	'Chromium': 0,
@@ -18,5 +20,10 @@ const resourceTable = {
 	'Aircraft Parts': 0,
 };
 
-resourceTable.Aluminum = 10;
-console.log(resourceTable);
+const modifier = prompt('whats ur factory output %? ');
+const cities = prompt('city count? ');
+const consumerAmount = Math.floor((40 + modifier)) * cities;
+
+resourceTable.Consumers = consumerAmount;
+
+// ok ill do this stuff later im tired
