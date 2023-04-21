@@ -1,0 +1,19 @@
+{
+  "name": "portalator",
+  "version": "0.0.1",
+  "description": "Portalator is a portable version of the RON calculator project but written in Node, hence the name \"portalator\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabbyDevs/portalator.git"
+  },
+  "author": "Rabby",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RabbyDevs/portalator/issues"
+  },
+  "homepage": "https://github.com/RabbyDevs/portalator#readme"
+}
