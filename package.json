@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RabbyDevs/portalator/issues"
   },
-  "homepage": "https://github.com/RabbyDevs/portalator#readme"
+  "homepage": "https://github.com/RabbyDevs/portalator#readme",
+  "dependencies": {
+    "eslint": "^8.38.0"
+  }
 }
