@@ -5,6 +5,7 @@ Portalator is a portable version of the RON calculator project but written in No
 You will need the things below:
 * [Node.js 19](https://nodejs.org/en/download)
 * [Git](https://git-scm.com/downloads)
+
 First, open a terminal window then do this command:
 ```js
 git clone https://github.com/RabbyDevs/portalator
